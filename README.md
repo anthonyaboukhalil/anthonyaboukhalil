@@ -1,4 +1,4 @@
-👋 Hi, I’m @anthonyaboukhalil I'm a web developer and UBC alumnus.
+👋 Hi, I’m @anthonyaboukhalil I'm a web developer and UBC alumnus. 
 👀 I’m interested in developing web applications that can make people's everyday tasks a bit easier.
 🌱 I’m currently learning Typescript,GraphQL
 💞️ I’m looking to work on javascript based libraries and frameworks like React.
